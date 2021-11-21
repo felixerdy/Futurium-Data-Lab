@@ -1,0 +1,5 @@
+pandas
+urllib
+functools
+requests
+keplergl
